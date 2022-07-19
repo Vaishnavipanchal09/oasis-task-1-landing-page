@@ -1,0 +1,59 @@
+body {
+ background-image: url("8.jpg");
+}
+
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+
+h3 {
+  color: black;
+  font-size: 38px;
+  text-align: center;
+}
+
+
+li {
+  color: green;
+  font-size: 25px;
+ 
+  font-weight: bold;
+  font-style: italic;
+
+}
+
+
+p {
+	
+  font-weight: bold;
+  font-family: verdana;
+  font-size: 20px;
+}
+
+
+marquee {
+	background-color: #ff8080;
+	color: white;
+	behavior: alternate;
+	font-weight: bold;
+          
+}
+
+
+title {
+
+  
+}
+
+
+.menu{
+	font size: 5;
+}
+img {
+	display: inline-block;
+	 width=39px;
+	 height=39px;
+}
